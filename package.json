@@ -29,7 +29,7 @@
     "url": "https://github.com/mnowotny/npm-build-tools/issues"
   },
   "homepage": "https://github.com/mnowotny/npm-build-tools",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "bin": {
     "n-clean": "./bin/n-clean",
     "n-concat": "./bin/n-concat",
