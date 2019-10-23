@@ -1,6 +1,6 @@
-# Preabmle
+# Preamble
 
-This repository was forked from https://github.com/Deathspike/npm-build-tools to update a vulnerable dependency.
+This repository was originally forked from https://github.com/Deathspike/npm-build-tools to update a vulnerable dependency.
 
 # npm-build-tools
 
