@@ -1,3 +1,7 @@
+# Preabmle
+
+This repository was forked from https://github.com/Deathspike/npm-build-tools to update a vulnerable dependency.
+
 # npm-build-tools
 
 Cross-platform command-line tools to help use npm as a build tool. This collection of command-line tools was  inspired by the following blog post by Keith Cirkel: [How to Use npm as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/). Incorporating the described approach is a hard when aiming for cross-platform support, and this collection of tools emerged to solve the pitfalls I encountered.
