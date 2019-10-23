@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "main": "src/index.js",
-  "name": "npm-build-tools",
+  "name": "@mnowotny/npm-build-tools",
   "repository": {
     "type": "git",
     "url": "git://github.com/mnowotny/npm-build-tools.git"
